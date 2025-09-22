@@ -10,10 +10,10 @@ export default function Home() {
         <section className="flex flex-col md:flex-row items-center justify-between mb-16 space-y-8 md:space-y-0">
           <div className="text-center md:text-left">
             <h1 className="text-5xl md:text-6xl font-extrabold text-white leading-tight">
-              Edison Protus
+              Muhammad Rehan
             </h1>
             <h2 className="text-xl md:text-2xl mt-2 text-gray-400">
-              Designing the future of AI &amp; Web3
+              Designing the future of AI, VAS & Digital &amp; Web3
             </h2>
           </div>
 
@@ -47,18 +47,7 @@ export default function Home() {
             </a>
 
             {/* Portfolio Icon (if applicable) */}
-            <a
-              href="https://portfolio-6wr3519vc-muhdrehan.vercel.app/"
-              target="_blank"
-              rel="noopener noreferrer"
-              aria-label="Previous Portfolio"
-              className="text-gray-400 hover:text-white transition-colors duration-300"
-            >
-              <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="currentColor" stroke="currentColor" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round" className="feather feather-briefcase">
-                <rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect>
-                <path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path>
-              </svg>
-            </a>
+            
           </div>
         </section>
 
