@@ -1,3 +1,6 @@
+
+<a href="#projects" className="px-3 py-1">Projects</a>
+
 import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 

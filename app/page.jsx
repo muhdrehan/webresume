@@ -1,4 +1,8 @@
 "use client";
+// top of file
+import Projects from "./components/Projects";
+
+ 
 
 import { useState } from 'react';
 
@@ -174,6 +178,7 @@ export default function Home() {
             </div>
           </div>
         </section>
+  <Projects />
 
       </main>
     </div>
