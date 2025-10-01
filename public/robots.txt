@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://webresume-nine.vercel.app/sitemap.xml

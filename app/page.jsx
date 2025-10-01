@@ -64,19 +64,20 @@ export default function Home() {
               {/* Ensure your image file is in the 'public' directory and the path matches the filename exactly. */}
               <img
                 src="/muhammad-rehan.jpg"
-                alt="Edison Protus"
+                alt="Muhammad Rehan – Technical Project Manager & Solution Architect Portfolio"
                 className="w-full h-full object-cover"
               />
             </div>
             <div className="md:col-span-2">
               <p className="text-lg text-gray-400 leading-relaxed mb-4">
-                As a seasoned Product Manager and Solution Architect with over 7 years of experience in AI, Web3, IoT, and telecom, I bridge the gap between business needs and technical execution. My journey has taken me from leading product strategies for startups to designing enterprise solutions for telecom giants. I thrive on building high-impact products that solve real-world problems and drive growth.
+                As a seasoned Project Manager and Solution Architect & Business Analyst with over 9 years of experience in AI, Web3, IoT, and telecom Digital Applications, I bridge the gap between business needs and technical execution. My journey has taken me from leading product strategies for startups to designing enterprise solutions for telecom giants. I thrive on building high-impact products that solve real-world problems and drive growth.
               </p>
               <div className="flex flex-wrap gap-4 text-gray-400 text-sm md:text-base">
-                <span className="bg-gray-800 rounded-full px-4 py-1">LangChain, LLM & Crew AI</span>
-                <span className="bg-gray-800 rounded-full px-4 py-1">Blockchain & Solidity</span>
-                <span className="bg-gray-800 rounded-full px-4 py-1">Kubernetes & OpenShift</span>
+                <span className="bg-gray-800 rounded-full px-4 py-1">LangChain, LLM & Crew AI, Automation</span>
+                <span className="bg-gray-800 rounded-full px-4 py-1">Blockchain </span>
+                <span className="bg-gray-800 rounded-full px-4 py-1">VAS & Digital platform</span>
                 <span className="bg-gray-800 rounded-full px-4 py-1">IoT & Connected Cars</span>
+                <span className="bg-gray-800 rounded-full px-4 py-1">Fintech</span>
               </div>
             </div>
           </div>
@@ -89,7 +90,7 @@ export default function Home() {
             {/* Job 1: Astra Network */}
             <div className="flex flex-col md:flex-row items-start space-y-4 md:space-y-0 md:space-x-8">
               <div className="md:w-1/4">
-                <h4 className="text-lg font-bold text-gray-300">Lead Product Architect - AI & Web3</h4>
+                <h4 className="text-lg font-bold text-gray-300">Project Manager & Solution Architect - AI & Web3</h4>
                 <p className="text-sm text-gray-500">Astra Network Pvt Ltd</p>
                 <p className="text-sm text-gray-500">Mar '25 - Jun '25</p>
               </div>
@@ -135,9 +136,9 @@ export default function Home() {
               <div className="md:w-3/4">
                 <ul className="list-disc list-inside space-y-2 text-gray-400">
                   <li>Member of the O-hour team, where in-house requirements were discussed and implemented.</li>
-                  <li>Responsible for requirement gathering, scoping, delivery, and monetization of end-to-end solutions for VAS, IoTs and Digital applications and their change related services.</li>
-                  <li>Locking all kind of WO for Ops, Ip core, Regulatory, CBS, Cloud Team & detailed discussion with Architecture Forum,
-                      coordinating with Product development & Business Teams. </li>
+                  <li>Responsible for requirement gathering, scoping, delivery, and monetization of end-to-end solutions for VAS,IoTs and Digital applications and their change related services.</li>
+                  <li>Locking all kind of WO for Ops, Ip core, Regulatory, CBS, Cloud Team & detailed discussion with Architecture Forum.</li> 
+                  <li>Coordinating with Product development & Business Teams. </li>
                   <li>Collaborating with Different teams in Telenor for execution of different category Projects. </li>
                   <li>Delivered Project Galaxy, providing vendors with access via NIAM instead of traditional VPN services.</li>
                   <li>Collaborated with different teams for the execution of various projects.</li>
