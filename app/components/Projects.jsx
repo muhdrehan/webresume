@@ -23,6 +23,11 @@ export default function Projects() {
       name: "AI ChatBot",
       description: "AI Chat bot with Gemani integration.",
       repo: "https://github.com/muhdrehan/GemaniChatbot"
+    },
+    {
+      name: "Smart Meet",
+      description: "Your Smartest Meeting Partner Ever!",
+      repo: "https://github.com/muhdrehan/smartmeet"
     }
   ];
   
