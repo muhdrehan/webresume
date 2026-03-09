@@ -90,6 +90,24 @@ export default function Home() {
             {/* Job 1: Astra Network */}
             <div className="flex flex-col md:flex-row items-start space-y-4 md:space-y-0 md:space-x-8">
               <div className="md:w-1/4">
+                <h4 className="text-lg font-bold text-gray-300">Solution Architect </h4>
+                <p className="text-sm text-gray-500">Evamp & Saanga </p>
+                <p className="text-sm text-gray-500">Nov '25 - present </p>
+              </div>
+              <div className="md:w-3/4">
+                <ul className="list-disc list-inside space-y-2 text-gray-400">
+                  <li>Led end-to-end solution architecture and technical delivery for complex system implementations.</li>
+                  <li>Designed scalable system architectures and API integrations ensuring high performance, security, and maintainability.</li>
+                  <li>Managed cross-functional collaboration between product, engineering, QA, and external stakeholders.</li>
+                  <li>Oversaw integration strategy and validation processes to ensure seamless system interoperability.</li>
+                  <li>Served as the technical liaison between clients and internal engineering teams, ensuring clear communication and solution alignment.</li>
+                </ul>
+              </div>
+            </div>
+
+            {/* Job 1: Astra Network */}
+            <div className="flex flex-col md:flex-row items-start space-y-4 md:space-y-0 md:space-x-8">
+              <div className="md:w-1/4">
                 <h4 className="text-lg font-bold text-gray-300">Project Manager & Solution Architect - AI & Web3</h4>
                 <p className="text-sm text-gray-500">Astra Network Pvt Ltd</p>
                 <p className="text-sm text-gray-500">Mar '25 - Jun '25</p>
